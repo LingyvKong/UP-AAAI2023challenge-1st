@@ -1,3 +1,8 @@
+AAAI2023 实用AI挑战赛冠军方案分享，[比赛链接](https://practical-dl.sensecore.cn/#/competitions)
+
+1st Place Solution for Efficient and Accurate Models towards Practical Deep Learning
+
+
 ## 1. 数据集准备：
 
 把官方data.zip中的图片解压到dataset/data/中；
